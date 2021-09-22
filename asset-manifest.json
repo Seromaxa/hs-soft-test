@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hs-soft-test/static/css/main.d5a7c2b0.chunk.css",
+    "main.js": "/hs-soft-test/static/js/main.fbc3f4a4.chunk.js",
+    "main.js.map": "/hs-soft-test/static/js/main.fbc3f4a4.chunk.js.map",
+    "runtime-main.js": "/hs-soft-test/static/js/runtime-main.f363bdbd.js",
+    "runtime-main.js.map": "/hs-soft-test/static/js/runtime-main.f363bdbd.js.map",
+    "static/js/2.1bc7d302.chunk.js": "/hs-soft-test/static/js/2.1bc7d302.chunk.js",
+    "static/js/2.1bc7d302.chunk.js.map": "/hs-soft-test/static/js/2.1bc7d302.chunk.js.map",
+    "static/js/3.86ec6040.chunk.js": "/hs-soft-test/static/js/3.86ec6040.chunk.js",
+    "static/js/3.86ec6040.chunk.js.map": "/hs-soft-test/static/js/3.86ec6040.chunk.js.map",
+    "index.html": "/hs-soft-test/index.html",
+    "static/css/main.d5a7c2b0.chunk.css.map": "/hs-soft-test/static/css/main.d5a7c2b0.chunk.css.map",
+    "static/js/2.1bc7d302.chunk.js.LICENSE.txt": "/hs-soft-test/static/js/2.1bc7d302.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f363bdbd.js",
+    "static/js/2.1bc7d302.chunk.js",
+    "static/css/main.d5a7c2b0.chunk.css",
+    "static/js/main.fbc3f4a4.chunk.js"
+  ]
+}
